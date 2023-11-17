@@ -6,7 +6,7 @@ TestHarness will output the average time for each test as well as the total time
 If the result produced by your algorithm does not match the result matrix, then test is failed
 
 **Rules are as follows:**
-1. You can only Modify your code in multiply() function and the other functions that you create
+1. You **can only Modify your code in multiply()** function and the other functions that you create
 2. You cannot modify the signature of multiply() function
 3. You cannot use any external libraries
 4. You have to pass all the 6 tests in order to remain in the competition
