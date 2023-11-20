@@ -19,3 +19,25 @@ There are two files in matrices folder:
    
 The result generated from your algorithm/code will be compared to the generated results(results.go)
 
+The matrices as follows:
+
+M0 is of size (small*2 x small/2)
+M1 is of size (small/2 x small*2)
+M2 is of size (small x small)
+M3 is of size (small x small)
+
+M4 is of size (medium*2 x medium/2)
+M5 is of size (medium/2 x medium*2)
+M6 is of size (medium x medium)
+M7 is of size (medium x medium)
+
+M8 is of size (large*2 x large/2)
+M9 is of size (large/2 x large*2)
+M10 is of size (large x large)
+M11 is of size (large x large)
+
+small  = 256
+medium = 512
+large  = 1024
+
+
